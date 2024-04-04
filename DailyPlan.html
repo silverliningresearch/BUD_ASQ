@@ -64,8 +64,10 @@
 
         //add data
         for (i = 0; i < daily_plan_data_asq.length; i++) {
-          if ((daily_plan_data_asq[i].Difference < 0)  //airline-dest still missing data
+          if (((daily_plan_data_asq[i].Difference < 0)  //airline-dest still missing data
                 ||(daily_plan_data_asq[i].Priority > 0)) // or either airline or dest still missing data
+              && (daily_plan_data_asq[i].Quota > 3)
+          )
           {
             var row = daily_plan_data_asq[i];
             data.addRows([[

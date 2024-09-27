@@ -452,7 +452,419 @@
         "Quota": 2,
         "Quarter": "2024-Q2",
         "Notes": ""
-       }
+       },
+
+
+       {
+  "Airline": "6H",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "A3",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "AF",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "AY",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "BA",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "BT",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "BZ",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "CA",
+  "Quota": 3,
+  "Modified quota": 3,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "CZ",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "D8",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "DS",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "DY",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "EC",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "EI",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "EK",
+  "Quota": 4,
+  "Modified quota": 4,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "EW",
+  "Quota": 8,
+  "Modified quota": 8,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "FM",
+  "Quota": 4,
+  "Modified quota": 4,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "FR",
+  "Quota": 87,
+  "Modified quota": 87,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "FZ",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "HU",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "IB",
+  "Quota": 3,
+  "Modified quota": 3,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "JU",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "KE",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "KL",
+  "Quota": 9,
+  "Modified quota": 9,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "LH",
+  "Quota": 17,
+  "Modified quota": 17,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "LO",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "LS",
+  "Quota": 3,
+  "Modified quota": 3,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "LX",
+  "Quota": 7,
+  "Modified quota": 7,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "LY",
+  "Quota": 3,
+  "Modified quota": 3,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "MS",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "OS",
+  "Quota": 3,
+  "Modified quota": 3,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "PC",
+  "Quota": 3,
+  "Modified quota": 3,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "QR",
+  "Quota": 3,
+  "Modified quota": 3,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "RK",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "RO",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "SN",
+  "Quota": 4,
+  "Modified quota": 4,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "TK",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "U2",
+  "Quota": 2,
+  "Modified quota": 2,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "VF",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "W6",
+  "Quota": 130,
+  "Modified quota": 130,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ },
+ {
+  "Airline": "XQ",
+  "Quota": 1,
+  "Modified quota": 1,
+  "Check": "",
+  "Deviation": 0,
+  "% Deviation": 0,
+  "Quarter": "2024-Q4",
+  "Notes": ""
+ }
 ]    
 
  `;

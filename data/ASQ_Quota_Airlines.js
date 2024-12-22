@@ -864,6 +864,439 @@
   "% Deviation": 0,
   "Quarter": "2024-Q4",
   "Notes": ""
+ },
+
+
+
+ {
+  "Airline": "6H",
+  "Quota": 1,
+  "Modified quota": 4,
+  "Check": "",
+  "Deviation": 3,
+  "% Deviation": 3.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "7O",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "A3",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "AF",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "AY",
+  "Quota": 2,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -2,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "BA",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "BZ",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "CA",
+  "Quota": 3,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -3,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "CZ",
+  "Quota": 2,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -2,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "D8",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "DS",
+  "Quota": 5,
+  "Modified quota": 8,
+  "Check": 1.0,
+  "Deviation": 3,
+  "% Deviation": 0.6,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "DY",
+  "Quota": 2,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -2,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "EC",
+  "Quota": 2,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -2,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "EI",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "EK",
+  "Quota": 5,
+  "Modified quota": 5,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "EW",
+  "Quota": 5,
+  "Modified quota": 8,
+  "Check": 1.0,
+  "Deviation": 3,
+  "% Deviation": 0.6,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "FM",
+  "Quota": 5,
+  "Modified quota": 8,
+  "Check": 1.0,
+  "Deviation": 3,
+  "% Deviation": 0.6,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "FR",
+  "Quota": 87,
+  "Modified quota": 81,
+  "Check": 1.0,
+  "Deviation": -6,
+  "% Deviation": -0.0689655172,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "FZ",
+  "Quota": 2,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -2,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "HU",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "IB",
+  "Quota": 2,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -2,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "IZ",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "JU",
+  "Quota": 2,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -2,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "KE",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "KL",
+  "Quota": 8,
+  "Modified quota": 8,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "LH",
+  "Quota": 15,
+  "Modified quota": 15,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "LO",
+  "Quota": 5,
+  "Modified quota": 8,
+  "Check": 1.0,
+  "Deviation": 3,
+  "% Deviation": 0.6,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "LS",
+  "Quota": 3,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -3,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "LX",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "LY",
+  "Quota": 3,
+  "Modified quota": 4,
+  "Check": "",
+  "Deviation": 1,
+  "% Deviation": 0.3333333333,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "MS",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "OS",
+  "Quota": 3,
+  "Modified quota": 4,
+  "Check": "",
+  "Deviation": 1,
+  "% Deviation": 0.3333333333,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "PC",
+  "Quota": 3,
+  "Modified quota": 4,
+  "Check": "",
+  "Deviation": 1,
+  "% Deviation": 0.3333333333,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "QR",
+  "Quota": 3,
+  "Modified quota": 4,
+  "Check": "",
+  "Deviation": 1,
+  "% Deviation": 0.3333333333,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "RK",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "RO",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "SN",
+  "Quota": 3,
+  "Modified quota": 4,
+  "Check": "",
+  "Deviation": 1,
+  "% Deviation": 0.3333333333,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "TK",
+  "Quota": 6,
+  "Modified quota": 6,
+  "Check": 1.0,
+  "Deviation": 0,
+  "% Deviation": 0.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "U2",
+  "Quota": 2,
+  "Modified quota": 4,
+  "Check": "",
+  "Deviation": 2,
+  "% Deviation": 1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "VF",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "W4",
+  "Quota": 2,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -2,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "W6",
+  "Quota": 138,
+  "Modified quota": 127,
+  "Check": 1.0,
+  "Deviation": -11,
+  "% Deviation": -0.0797101449,
+  "Quarter": "2025-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "XQ",
+  "Quota": 1,
+  "Modified quota": 0,
+  "Check": "",
+  "Deviation": -1,
+  "% Deviation": -1.0,
+  "Quarter": "2025-Q1",
+  "Notes": ""
  }
 ]    
 

@@ -7662,6 +7662,466 @@
   "Quota": 4.0,
   "Quarter": "2025-Q2",
   "Notes": ""
+ },
+
+
+
+
+  {
+  "Airline_Dest": "7O-AYT",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "7O-CHQ",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "AF-CDG",
+  "Quota": 6.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "AY-HEL",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "BA-LHR",
+  "Quota": 7.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "BZ-TLV",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "CA-PEK",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "CZ-CAN",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "D8-CPH",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "DS-BSL",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "DY-OSL",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "EK-DXB",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "EW-DUS",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "EW-STR",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "EW-CGN",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FM-PVG",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-STN",
+  "Quota": 7.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-BGY",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-CIA",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-BCN",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-BER",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-CRL",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-BRI",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-BVA",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-CPH",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-DUB",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-EDI",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-MLA",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-MXP",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-NAP",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-PRG",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-SKG",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-SOF",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-VLC",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-AGP",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FR-AHO",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "FZ-DXB",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "IB-MAD",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "KL-AMS",
+  "Quota": 9.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "LH-FRA",
+  "Quota": 9.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "LH-MUC",
+  "Quota": 8.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "LO-WAW",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "LX-ZRH",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "LY-TLV",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "OS-VIE",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "SN-BRU",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "TK-IST",
+  "Quota": 6.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "U2-LGW",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W4-MXP",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W4-NAP",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-LTN",
+  "Quota": 7.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-EIN",
+  "Quota": 5.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-TLV",
+  "Quota": 5.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-BCN",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-FCO",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-IST",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-LGW",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-BER",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-BSL",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-LCA",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-MAD",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-ORY",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-AGP",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-ALC",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-ATH",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-BBU",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-BRI",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-CPH",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-CRL",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-LIS",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-MLA",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-MXP",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-NCE",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-STR",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-TGM",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
+ },
+ {
+  "Airline_Dest": "W6-WAW",
+  "Quota": 4.0,
+  "Quarter": "2025-Q3",
+  "Notes": ""
  }
 
 ]    
